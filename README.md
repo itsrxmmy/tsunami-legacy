@@ -10,6 +10,12 @@
 
 #
 
+## _**News**_
+
+> **[News]**(https://github.com/itsrxmmy/tsunami/tree/main/NEWS)
+
+#
+
 ### _**How to Use:**_
 
 To get started, you must configure the program. You can do this by editing the **[config.json](https://github.com/itsrxmmy/tsunami/tree/main/tsunami/config.json)** file. If you do not know how to modify JSON files, it is a good idea to learn before making changes to the file. DO NOT move, rename, or delete the **[tsunami](https://github.com/itsrxmmy/tsunami/tree/main/tsunami)** folder or its **important** contents (see a list of its important contents below) or there may be complications with the software. It's a good idea to delete the previous version(s) of **tsunami** that you already have when downloading a new one to avoid complications.
